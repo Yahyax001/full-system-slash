@@ -27,4 +27,4 @@ process.on("unhandledRejection", (err) => {
 process.on('warning', (warning) => {
   console.log(warning.stack);
 });
-client.login('config.token')
+client.login('OTk1MDYxODMzNzU5MTk1MjU2.GAumCn.M2iCb9b4x8AwSaRiV6xroTT-QBBlt9aS4JWCBw')
